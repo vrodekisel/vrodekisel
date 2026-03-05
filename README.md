@@ -1,5 +1,5 @@
 ## Hi 👋 
-## My name is Eugene Zabello.
+## My name is Eugene Zabello
 
 I’m a developer studying **Software Engineering** in the department of **Game Development and Multimedia Applications**.
 
