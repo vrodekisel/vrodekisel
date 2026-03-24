@@ -45,9 +45,6 @@ https://www.behance.net/zabelloeug
 
 ## 📬 Contact
 
-GitHub:
-https://github.com/vrodekisel
-
 E-mail:
 zabelloeug@gmail.com
 
